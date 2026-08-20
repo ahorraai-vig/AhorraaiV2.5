@@ -1,0 +1,6 @@
+{
+  "name": "AhorraAI — Local Intelligence & Cooperative Commerce OS",
+  "description": "La infraestructura de inteligencia artificial y protocolo cooperativo para el comercio local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
